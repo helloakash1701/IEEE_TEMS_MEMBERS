@@ -2,5 +2,7 @@
 Every member of IEEE TEMS append your name and this repo will act as your first open-source project
 
 Names ->
-1-Akash Mishra  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  2-Vedant Seth
+
+1-Akash Mishra
+2-S.Varun 
+3-Vedant Seth
