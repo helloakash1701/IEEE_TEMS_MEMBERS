@@ -13,5 +13,5 @@ Names ->
 
 5-Harshit Ashri
 
-6-Sorathiya Ved
+6-Ved Sorathiya
 
